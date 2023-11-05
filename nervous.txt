@@ -1,0 +1,55 @@
+<html>
+
+<img src="music-artic.gif" width="200" height="100">
+<div> <center> <style="text-align:left;"><a style="font-size:10px; background-color: green; padding: 10px 30px 10px 30px; color: black;
+" href=https://youtu.be/FjHGZj2IjBk?si=ZIHrl7uLK2iKwumw ">NERVOUS</a> </center> </div>
+
+<p>
+<div><center>
+<table style="width:100%">
+
+
+	<table border="1">
+	<tr>
+		<td> MY NERVOUS PLAYLIST </td>
+	</tr>
+	<tr>
+		<td>... MOST FAVORITE... </td>
+	</tr>
+	</table> 
+
+</body>
+</html>
+
+<hr>
+
+<img src="giphy.gif" width="400" height="200">
+</center></div>
+
+
+
+
+<html>
+
+<head>
+<style>
+
+body {background-image: url('bgnervous03.jpg');background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+
+</style>
+</head>
+
+<p>
+
+<html>
+<body>
+<center>
+<img src="n1.jpg" width="1000" height="710">
+<img src="n2.jpg" width="850" height="810">
+</center>
+
+</body>
+</html>
+
+
+
